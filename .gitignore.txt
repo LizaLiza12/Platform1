@@ -1,0 +1,26 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+Recordings/
+Assets/AssetStoreTools*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / VS / IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.svd
+*.tmp
